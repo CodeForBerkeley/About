@@ -15,7 +15,7 @@ Our activities and events should foster meaningful collaboration between partici
 9. Actively involve stakeholders, community groups, and those with subject matter expertise in all decision-making processes.
 10. Ensure that relationships and conversations between, and among, stakeholders e.g. elected officials, their staff, and government representatives, community based organizations and their partners, and members of the Code for Berkeley community — remain respectful, participatory, and productive.
 
-Code for Berkeley reserves the right to ask anyone in violation of these policies not to participate in our events or network of activities. If you have any other concerns or would like to address an issue, please contact Brigade Captain Courtney Brousseau at codeforberkeley@gmail.com.
+Code for Berkeley reserves the right to ask anyone in violation of these policies not to participate in our events or network of activities. If you have any other concerns or would like to address an issue, please contact Brigade Co-Captains Nandika Donthi and Courtney Brousseau at codeforberkeley@gmail.com.
 
 Code for Berkeley's Code of Conduct is an adaptation of [Code for America’s Community Code of Conduct policy](https://github.com/codeforamerica/codeofconduct) as well as [BetaNYC's Code of Conduct](https://github.com/BetaNYC/What-is-BetaNYC/blob/master/Code-of-Conduct.md).
 
@@ -37,7 +37,7 @@ Harassment includes but is not limited to offensive verbal or written comments r
 
 If a participant engages in harassing behavior, Code for Berkeley leadership and/or event organizers may take any action they deem appropriate, including warning the offender and expulsion from Code for Berkeley events and network activities.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. Additionally, you can contact Brigade Captain Courtney Brousseau at codeforberkeley@gmail.com.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. Additionally, you can contact Brigade Co-Captains Nandika Donthi and Courtney Brousseau at codeforberkeley@gmail.com.
 
 Code for Berkeley leadership and/or event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
